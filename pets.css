@@ -1,0 +1,26 @@
+body {
+    margin: 50px;
+    font-family: sans-serif;
+  }
+  
+  h1,
+   h2 {
+    color: darkred;
+  }
+  
+  #pets {
+    width: 500px;
+  }
+    
+
+  .pet img {
+    height: 150px;
+  }
+
+  .pet img {
+      max-width: 1000px;
+      float: left; 150px;
+      border: solid 1px black;
+      border-radius: 5px;
+      box-shadow: #bbb  3px 3px 5px;
+  }
